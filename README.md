@@ -48,12 +48,13 @@ regles:
 ```
 lien utile pour recupérer les donner api:
 
-	[tuto recuperer les donner api](https://learn.microsoft.com/fr-fr/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client)
+- [tuto recuperer les donner api](https://learn.microsoft.com/fr-fr/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client)
 
 voici les lien de l'api:
 
-	pour récupéré la votre [clé](https://api.nasa.gov): https://api.nasa.gov
-	exemple de [lien](https://api.nasa.gov/neo/rest/v1/feed?start_date=START_DATE&end_date=END_DATE&api_key=API_KEY): https://api.nasa.gov/neo/rest/v1/feed?start_date=START_DATE&end_date=END_DATE&api_key=API_KEY
+- pour récupéré la votre [clé](https://api.nasa.gov): https://api.nasa.gov
+
+- exemple de [lien](https://api.nasa.gov/neo/rest/v1/feed?start_date=START_DATE&end_date=END_DATE&api_key=API_KEY): https://api.nasa.gov/neo/rest/v1/feed?start_date=START_DATE&end_date=END_DATE&api_key=API_KEY
 		
 vous devrez recupéré toutes les info nécéssaire a la partie VISUEL.
 
