@@ -10,9 +10,9 @@ Tout en resspectant l'enoncer "projet_nasa.txt"
 ### Ques que je dois faire ? :
 
 il y a 3 partie:
-    - respect de la POO.
-    - la récupération des donnée api de la nasa.
-    - la création du logicel et mise en place du visuel.
+- respect de la POO.
+- la récupération des donnée api de la nasa.
+- la création du logicel et mise en place du visuel.
 
 ---
 ```ascii
