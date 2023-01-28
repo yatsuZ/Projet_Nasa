@@ -15,13 +15,14 @@ il y a 3 partie:
     - la création du logicel et mise en place du visuel.
 
 ---
-
+```text
   _____   ____   ____  
  |  __ \ / __ \ / __ \ 
  | |__) | |  | | |  | |
  |  ___/| |  | | |  | |
  | |    | |__| | |__| |
  |_|     \____/ \____/ 
+ ```
                        
 regles:
     tout attribut doit etre privée.
