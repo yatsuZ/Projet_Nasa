@@ -15,7 +15,7 @@ il y a 3 partie:
     - la création du logicel et mise en place du visuel.
 
 ---
-```text
+```ascii
   _____   ____   ____  
  |  __ \ / __ \ / __ \ 
  | |__) | |  | | |  | |
@@ -36,13 +36,15 @@ regles:
     ces regles sont valable pour tout le projet.
 
 ---
+```ascii
            _____ _____ 
      /\   |  __ \_   _|
     /  \  | |__) || |  
    / /\ \ |  ___/ | |  
   / ____ \| |    _| |_ 
  /_/    \_\_|   |_____|
-
+ 
+```
 lien utile pour recupérer les donner api: https://learn.microsoft.com/fr-fr/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
 
 voici les lien de l'api:
@@ -52,13 +54,14 @@ voici les lien de l'api:
 vous devrez recupéré toutes les info nécéssaire a la partie VISUEL.
 
 ---
+```ascii
  __      _______  _____ _    _ ______ _      
  \ \    / /_   _|/ ____| |  | |  ____| |     
   \ \  / /  | | | (___ | |  | | |__  | |     
    \ \/ /   | |  \___ \| |  | |  __| | |     
     \  /   _| |_ ____) | |__| | |____| |____ 
      \/   |_____|_____/ \____/|______|______|
-	
+```	
 1. lien d'un tuto complet pour faire des app windows fonctionelle: https://www.youtube.com/watch?v=wfWxdh-_k_4
 
 2. lien d'un tuto complet pour faire des app windows jolie: https://www.youtube.com/watch?v=PzP8mw7JUzI
