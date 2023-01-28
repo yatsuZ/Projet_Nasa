@@ -47,13 +47,13 @@ regles:
  
 ```
 lien utile pour recupérer les donner api:
-	
-	https://learn.microsoft.com/fr-fr/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
+
+	[tuto recuperer les donner api](https://learn.microsoft.com/fr-fr/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client)
 
 voici les lien de l'api:
 
-	pour récupéré la votre clé: https://api.nasa.gov
-	exemple de lien: https://api.nasa.gov/neo/rest/v1/feed?start_date=START_DATE&end_date=END_DATE&api_key=API_KEY
+	pour récupéré la votre [clé](https://api.nasa.gov): https://api.nasa.gov
+	exemple de [lien](https://api.nasa.gov/neo/rest/v1/feed?start_date=START_DATE&end_date=END_DATE&api_key=API_KEY): https://api.nasa.gov/neo/rest/v1/feed?start_date=START_DATE&end_date=END_DATE&api_key=API_KEY
 		
 vous devrez recupéré toutes les info nécéssaire a la partie VISUEL.
 
@@ -66,9 +66,9 @@ vous devrez recupéré toutes les info nécéssaire a la partie VISUEL.
     \  /   _| |_ ____) | |__| | |____| |____ 
      \/   |_____|_____/ \____/|______|______|
 ```	
-1. lien d'un tuto complet pour faire des app windows fonctionelle: https://www.youtube.com/watch?v=wfWxdh-_k_4
+1. lien d'un tuto complet pour faire des app windows fonctionelle: [video tuto 1](https://www.youtube.com/watch?v=wfWxdh-_k_4)
 
-2. lien d'un tuto complet pour faire des app windows jolie: https://www.youtube.com/watch?v=PzP8mw7JUzI
+2. lien d'un tuto complet pour faire des app windows jolie: [video tuto 2](https://www.youtube.com/watch?v=PzP8mw7JUzI)
 	
 fonctionnalité:
 
