@@ -1,6 +1,6 @@
 # Projet_Nasa
 
-![logo Nasa](def)
+![logo Nasa](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png)
 
 ## BUT :
 
@@ -76,6 +76,3 @@ vous avez champ libre pour le visuel.
 
 tout dois etre mis en forme de facon ergonomique
 ---
-
-
-[def]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png# Projet_Nasa
