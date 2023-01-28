@@ -25,6 +25,7 @@ il y a 3 partie:
  ```
                        
 regles:
+
     tout attribut doit etre privée.
     tout attribut doit avoir un geteur si il a vocation a etre récupéré dans une autre classe.
     tout attribut doit avoir un seteur.
@@ -45,9 +46,12 @@ regles:
  /_/    \_\_|   |_____|
  
 ```
-lien utile pour recupérer les donner api: https://learn.microsoft.com/fr-fr/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
+lien utile pour recupérer les donner api:
+	
+	https://learn.microsoft.com/fr-fr/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
 
 voici les lien de l'api:
+
 	pour récupéré la votre clé: https://api.nasa.gov
 	exemple de lien: https://api.nasa.gov/neo/rest/v1/feed?start_date=START_DATE&end_date=END_DATE&api_key=API_KEY
 		
@@ -67,16 +71,16 @@ vous devrez recupéré toutes les info nécéssaire a la partie VISUEL.
 2. lien d'un tuto complet pour faire des app windows jolie: https://www.youtube.com/watch?v=PzP8mw7JUzI
 	
 fonctionnalité:
-	-avoir le nom de votre application d'afficher
-	-le fond d'ecran de votre logiciel doit etre l'image de APOD
-	-pouvoir cliquer sur un bouton pour avoir les information de l'image de APOD
-	-pouvoir voir la liste des astéroîdes proche de la terre
-		-nom
-		-distance min
-	-pouvoir selectionner un astéroide pour voir sa liste des approches passé, et future
+
+- avoir le nom de votre application d'afficher
+- le fond d'ecran de votre logiciel doit etre l'image de APOD
+- pouvoir cliquer sur un bouton pour avoir les information de l'image de APOD
+- pouvoir voir la liste des astéroîdes proche de la terre
+	- nom
+	- distance min
+- pouvoir selectionner un astéroide pour voir sa liste des approches passé, et future
 
 vous avez champ libre pour le visuel.
-
 
 tout dois etre mis en forme de facon ergonomique
 ---
