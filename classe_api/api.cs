@@ -6,8 +6,12 @@ namespace Projet_Nasa
     //c'est ici ou je crerair tout et manipulerais tout.
     class NasaAPI
     {
-        private readonly string apiKey = "xegfhwLdY6O1L48WNPnLgF4nkeAZXL1mJDp1cBGi";//api key est une constante
+        private readonly string apiKey;//api key est une constante
 
+        public NasaAPI(string key)
+        {
+            this.apiKey = key;
+        }
         private Link getLink(System.Text.Json.JsonDocument data)
         {
             var jsonLink = data.RootElement.GetProperty("links");

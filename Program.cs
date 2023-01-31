@@ -13,12 +13,16 @@ class Program
 
     static void Main(string[] args)
     {
-        NasaAPI nasaAPI = new NasaAPI();
+        string key = "xegfhwLdY6O1L48WNPnLgF4nkeAZXL1mJDp1cBGi";
+        NasaAPI nasaAPI = new NasaAPI(key);//api key est une constante
         //var jsonData = nasaAPI.GetNeoData().Result;
         Data_this_page? info_of_this_page = nasaAPI.getThisPage().Result;
-        if (info_of_this_page == null)
-            Console.WriteLine("KO");
-        else
-            info_of_this_page.Affichage_des_infos(0);
+        // if (info_of_this_page == null)
+        //     Console.WriteLine("KO");
+        // else
+        //     info_of_this_page.Affichage_des_infos(0);
+        //////
+        NasaAPOD pomme = new NasaAPOD(key);
+        pomme.affichage();
     }
 }
