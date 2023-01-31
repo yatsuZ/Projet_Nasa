@@ -85,3 +85,14 @@ vous avez champ libre pour le visuel.
 
 tout dois etre mis en forme de facon ergonomique
 ---
+
+ ### Remarque
+
+ 1. pour regarder les format json mieux vaut regarder avec le navigateur web firefox.
+ 2. pour mieux m'y retrouver j'ai fais une UML.
+ 
+---
+
+### Partie POO 
+
+jai fini jai essaye de faire une uml mais je ne l'ai pas trop respecte hehhe.
